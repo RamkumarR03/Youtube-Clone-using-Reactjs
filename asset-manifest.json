@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Youtube-Clone-using-Reactjs/static/css/main.d72bd6c1.css",
+    "main.js": "/Youtube-Clone-using-Reactjs/static/js/main.b6f43968.js",
+    "static/media/img11.png": "/Youtube-Clone-using-Reactjs/static/media/img11.3447c5bb12de790e2932.png",
+    "static/media/img3.png": "/Youtube-Clone-using-Reactjs/static/media/img3.57003a82e3a5d365e11b.png",
+    "static/media/img6.png": "/Youtube-Clone-using-Reactjs/static/media/img6.1cf1e7a899dc3f15a90c.png",
+    "static/media/img5.png": "/Youtube-Clone-using-Reactjs/static/media/img5.292443aa3a67800cae13.png",
+    "static/media/img12.png": "/Youtube-Clone-using-Reactjs/static/media/img12.1973cdc4a6cd636cc924.png",
+    "static/media/img2.png": "/Youtube-Clone-using-Reactjs/static/media/img2.a80f934c36003142699b.png",
+    "static/media/img10.png": "/Youtube-Clone-using-Reactjs/static/media/img10.0c1586adfd235631e71c.png",
+    "static/media/img7.png": "/Youtube-Clone-using-Reactjs/static/media/img7.c1965f9c222cc1e83287.png",
+    "static/media/img4.png": "/Youtube-Clone-using-Reactjs/static/media/img4.6978e0d98b87b97e62ed.png",
+    "static/media/img1.png": "/Youtube-Clone-using-Reactjs/static/media/img1.7a6df3016d7985a9368d.png",
+    "static/media/img8.png": "/Youtube-Clone-using-Reactjs/static/media/img8.35fce1bfb9924f2327cf.png",
+    "static/media/img9.png": "/Youtube-Clone-using-Reactjs/static/media/img9.1991c42cb433e577e5f8.png",
+    "index.html": "/Youtube-Clone-using-Reactjs/index.html",
+    "main.d72bd6c1.css.map": "/Youtube-Clone-using-Reactjs/static/css/main.d72bd6c1.css.map",
+    "main.b6f43968.js.map": "/Youtube-Clone-using-Reactjs/static/js/main.b6f43968.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d72bd6c1.css",
+    "static/js/main.b6f43968.js"
+  ]
+}
